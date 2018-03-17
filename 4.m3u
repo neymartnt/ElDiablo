@@ -1,4 +1,4 @@
-# EXTM3U
+#EXTM3U
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title="24/7",premiumtv.org
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
