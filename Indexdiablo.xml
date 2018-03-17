@@ -5,37 +5,13 @@
 
 
 
-
 <item>
-<title>[COLOR red]_**_  [/COLOR][COLOR  skyblue] BIENVENIDOS AL DIABLO [/COLOR][COLOR red]  _**_[/COLOR]</title>
+<title>[COLOR yellow] _**_  [/COLOR][COLOR  red] BIENVENIDOS AL DIABLO [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <thumbnail>https://i.imgur.com/g24UqUU.jpg</thumbnail>
 <fanart>https://i.imgur.com/g24UqUU.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
-
-
-
-
-<item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] DEPORTES [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.imgur.com/9GLCbiI.jpg</thumbnail>
-<fanart>https://i.imgur.com/9GLCbiI.jpg<fanart>
-<externallink>https://raw.githubusercontent.com/neymartnt/ElDiablo/master/deportes.xml</externallink> 
-<item>
-
-<item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] DOCUMENTALES [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart><fanart>
-<externallink>https://raw.githubusercontent.com/neymartnt/ElDiablo/master/Documentales.xml</externallink> 
-<item>
-
-
-<!-------------
 
 
 <item>
@@ -45,6 +21,38 @@
 <fanart><fanart>
 <externallink>https://raw.githubusercontent.com/neymartnt/ElDiablo/master/TDTD.xml</externallink> 
 <item>
+
+
+
+<item> 
+<title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] SPORTS365 [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://pbs.twimg.com/profile_images/589075153092550657/Q7aS9g6Y.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/589075153092550657/Q7aS9g6Y.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/AV%20JHG.xml</externallink>	
+</item> 
+
+
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] CANALES DEPORTES [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/9GLCbiI.jpg</thumbnail>
+<fanart>https://i.imgur.com/9GLCbiI.jpg<fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/ElDiablo/master/deportes.xml</externallink> 
+<item>
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] CANALES DOCUMENTALES [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart><fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/ElDiablo/master/Documentales.xml</externallink> 
+<item>
+
+
+<!-------------
+
 
 
 <item>
