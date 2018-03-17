@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+ 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="---------- CANALES TEMATICOS ----------" tvg-logo="" group-title=""---------- CANALES TEMATICOS ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15932.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="---------- CANALES TEMATICOS ----------" tvg-logo="" group-title=""---------- CANALES TEMATICOS ----------</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Portada" tvg-logo="" group-title="DIRECTO"Portada</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/14900.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Portada" tvg-logo="" group-title="DIRECTO"Portada</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="#0.es" tvg-name="#0" tvg-logo="" group-title="DIRECTO"#0</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/12270.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="#0.es" tvg-name="#0" tvg-logo="" group-title="DIRECTO"#0</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus" tvg-name="#0 720" tvg-logo="" group-title="DIRECTO"#0 720</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/63.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus" tvg-name="#0 720" tvg-logo="" group-title="DIRECTO"#0 720</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus" tvg-name="#0 HD 1080" tvg-logo="" group-title="DIRECTO"#0 HD 1080</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6424.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus" tvg-name="#0 HD 1080" tvg-logo="" group-title="DIRECTO"#0 HD 1080</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Estrenos" tvg-name="Movistar+ Estrenos" tvg-logo="" group-title="DIRECTO"Movistar+ Estrenos</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/14700.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Estrenos" tvg-name="Movistar+ Estrenos" tvg-logo="" group-title="DIRECTO"Movistar+ Estrenos</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Estrenos" tvg-name="Movistar+ Estrenos 720" tvg-logo="" group-title="DIRECTO"Movistar+ Estrenos 720</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/13199.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Estrenos" tvg-name="Movistar+ Estrenos 720" tvg-logo="" group-title="DIRECTO"Movistar+ Estrenos 720</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="CanalPlusEstrenos.sp" tvg-name="Movistar+ Estrenos HD 1080" tvg-logo="" group-title="DIRECTO"Movistar+ Estrenos HD 1080</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6398.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CanalPlusEstrenos.sp" tvg-name="Movistar+ Estrenos HD 1080" tvg-logo="" group-title="DIRECTO"Movistar+ Estrenos HD 1080</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="CPACCI ASTRA SD 2.sp" tvg-name="Movistar+ Accion" tvg-logo="" group-title="DIRECTO"Movistar+ Accion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/14702.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CPACCI ASTRA SD 2.sp" tvg-name="Movistar+ Accion" tvg-logo="" group-title="DIRECTO"Movistar+ Accion</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="CPACCI ASTRA HD 1.sp" tvg-name="Movistar+ Accion 720" tvg-logo="" group-title="DIRECTO"Movistar+ Accion 720</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/64.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CPACCI ASTRA HD 1.sp" tvg-name="Movistar+ Accion 720" tvg-logo="" group-title="DIRECTO"Movistar+ Accion 720</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="CPACCI ASTRA HD 1.sp" tvg-name="Movistar+ Accion HD 1080" tvg-logo="" group-title="DIRECTO"Movistar+ Accion HD 1080</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6397.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CPACCI ASTRA HD 1.sp" tvg-name="Movistar+ Accion HD 1080" tvg-logo="" group-title="DIRECTO"Movistar+ Accion HD 1080</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Comedia" tvg-name="Movistar+ Comedia" tvg-logo="" group-title="DIRECTO"Movistar+ Comedia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/14701.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Comedia" tvg-name="Movistar+ Comedia" tvg-logo="" group-title="DIRECTO"Movistar+ Comedia</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Comedia" tvg-name="Movistar+ Comedia 720" tvg-logo="" group-title="DIRECTO"Movistar+ Comedia 720</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/65.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Comedia" tvg-name="Movistar+ Comedia 720" tvg-logo="" group-title="DIRECTO"Movistar+ Comedia 720</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="CanalPlusComedia.es" tvg-name="Movistar+ Comedia HD 1080" tvg-logo="" group-title="DIRECTO"Movistar+ Comedia HD 1080</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6418.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CanalPlusComedia.es" tvg-name="Movistar+ Comedia HD 1080" tvg-logo="" group-title="DIRECTO"Movistar+ Comedia HD 1080</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus DCine" tvg-name="Movistar+ DCine" tvg-logo="" group-title="DIRECTO"Movistar+ DCine</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/14703.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus DCine" tvg-name="Movistar+ DCine" tvg-logo="" group-title="DIRECTO"Movistar+ DCine</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus DCine" tvg-name="Movistar+ DCine 720" tvg-logo="" group-title="DIRECTO"Movistar+ DCine 720</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/57.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus DCine" tvg-name="Movistar+ DCine 720" tvg-logo="" group-title="DIRECTO"Movistar+ DCine 720</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus DCine" tvg-name="Movistar+ DCine HD 1080" tvg-logo="" group-title="DIRECTO"Movistar+ DCine HD 1080</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6396.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus DCine" tvg-name="Movistar+ DCine HD 1080" tvg-logo="" group-title="DIRECTO"Movistar+ DCine HD 1080</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Xtra" tvg-name="Movistar+ Xtra HD" tvg-logo="" group-title="DIRECTO"Movistar+ Xtra HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7938.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Xtra" tvg-name="Movistar+ Xtra HD" tvg-logo="" group-title="DIRECTO"Movistar+ Xtra HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus DCine ES" tvg-name="M.Cine Español" tvg-logo="" group-title="DIRECTO"M.Cine Español</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/52.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus DCine ES" tvg-name="M.Cine Español" tvg-logo="" group-title="DIRECTO"M.Cine Español</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Hollywood HD" tvg-name="Hollywood 720" tvg-logo="" group-title="DIRECTO"Hollywood 720</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/13197.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Hollywood HD" tvg-name="Hollywood 720" tvg-logo="" group-title="DIRECTO"Hollywood 720</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Hollywood" tvg-name="Hollywood HD" tvg-logo="" group-title="DIRECTO"Hollywood HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/9859.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Hollywood" tvg-name="Hollywood HD" tvg-logo="" group-title="DIRECTO"Hollywood HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="TCM" tvg-name="TCM HD" tvg-logo="" group-title="DIRECTO"TCM HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7939.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="TCM" tvg-name="TCM HD" tvg-logo="" group-title="DIRECTO"TCM HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="TNT" tvg-name="TNT 720" tvg-logo="" group-title="DIRECTO"TNT 720</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/116.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="TNT" tvg-name="TNT 720" tvg-logo="" group-title="DIRECTO"TNT 720</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="" group-title="DIRECTO"TNT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7940.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="" group-title="DIRECTO"TNT HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Series" tvg-name="Movistar+ Series" tvg-logo="" group-title="DIRECTO"Movistar+ Series</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/14704.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Series" tvg-name="Movistar+ Series" tvg-logo="" group-title="DIRECTO"Movistar+ Series</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Series" tvg-name="Movistar+ Series 720" tvg-logo="" group-title="DIRECTO"Movistar+ Series 720</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/72.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Series" tvg-name="Movistar+ Series 720" tvg-logo="" group-title="DIRECTO"Movistar+ Series 720</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Canal+ Series HD" tvg-name="Movistar+ Series HD" tvg-logo="" group-title="DIRECTO"Movistar+ Series HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7941.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Canal+ Series HD" tvg-name="Movistar+ Series HD" tvg-logo="" group-title="DIRECTO"Movistar+ Series HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Series Xtra" tvg-name="Movistar+ Series Xtra" tvg-logo="" group-title="DIRECTO"Movistar+ Series Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/14705.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Series Xtra" tvg-name="Movistar+ Series Xtra" tvg-logo="" group-title="DIRECTO"Movistar+ Series Xtra</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Series Xtra" tvg-name="Movistar+ Series Xtra HD" tvg-logo="" group-title="DIRECTO"Movistar+ Series Xtra HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/11107.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Series Xtra" tvg-name="Movistar+ Series Xtra HD" tvg-logo="" group-title="DIRECTO"Movistar+ Series Xtra HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Movistar+ Fama 24H" tvg-logo="" group-title="DIRECTO"Movistar+ Fama 24H</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/16154.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Movistar+ Fama 24H" tvg-logo="" group-title="DIRECTO"Movistar+ Fama 24H</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="FOXGE ASTRA HD 1.sp" tvg-name="Fox" tvg-logo="" group-title="DIRECTO"Fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/58.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="FOXGE ASTRA HD 1.sp" tvg-name="Fox" tvg-logo="" group-title="DIRECTO"Fox</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="FOXGE ASTRA HD 1.sp" tvg-name="Fox HD 1080" tvg-logo="" group-title="DIRECTO"Fox HD 1080</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6427.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="FOXGE ASTRA HD 1.sp" tvg-name="Fox HD 1080" tvg-logo="" group-title="DIRECTO"Fox HD 1080</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="FOX LIFE HD" tvg-name="Fox Life HD 1080" tvg-logo="" group-title="DIRECTO"Fox Life HD 1080</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/11108.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="FOX LIFE HD" tvg-name="Fox Life HD 1080" tvg-logo="" group-title="DIRECTO"Fox Life HD 1080</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="AXN ASTRA HD 1.sp" tvg-name="AXN HD" tvg-logo="" group-title="DIRECTO"AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7943.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="AXN ASTRA HD 1.sp" tvg-name="AXN HD" tvg-logo="" group-title="DIRECTO"AXN HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="AXN White" tvg-name="Axn White" tvg-logo="" group-title="DIRECTO"Axn White</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/60.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="AXN White" tvg-name="Axn White" tvg-logo="" group-title="DIRECTO"Axn White</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="AXN White HD" tvg-name="AXN WHITE HD" tvg-logo="" group-title="DIRECTO"AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7944.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="AXN White HD" tvg-name="AXN WHITE HD" tvg-logo="" group-title="DIRECTO"AXN WHITE HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Dark" tvg-logo="" group-title="DIRECTO"Dark</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15916.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Dark" tvg-logo="" group-title="DIRECTO"Dark</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Calle 13" tvg-name="Calle 13" tvg-logo="" group-title="DIRECTO"Calle 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/70.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Calle 13" tvg-name="Calle 13" tvg-logo="" group-title="DIRECTO"Calle 13</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Calle 13 HD" tvg-name="CALLE 13 HD" tvg-logo="" group-title="DIRECTO"CALLE 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7945.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Calle 13 HD" tvg-name="CALLE 13 HD" tvg-logo="" group-title="DIRECTO"CALLE 13 HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="COMEDY CENTRAL" tvg-name="Comedy Central HD" tvg-logo="" group-title="DIRECTO"Comedy Central HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/73.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="COMEDY CENTRAL" tvg-name="Comedy Central HD" tvg-logo="" group-title="DIRECTO"Comedy Central HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="COSMO HD" tvg-name="Cosmopolitan HD 1080" tvg-logo="" group-title="DIRECTO"Cosmopolitan HD 1080</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/11106.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="COSMO HD" tvg-name="Cosmopolitan HD 1080" tvg-logo="" group-title="DIRECTO"Cosmopolitan HD 1080</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="SYFY" tvg-name="Syfy" tvg-logo="" group-title="DIRECTO"Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/74.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="SYFY" tvg-name="Syfy" tvg-logo="" group-title="DIRECTO"Syfy</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="SYFY HD" tvg-name="Syfy HD" tvg-logo="" group-title="DIRECTO"Syfy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7947.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="SYFY HD" tvg-name="Syfy HD" tvg-logo="" group-title="DIRECTO"Syfy HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="AMC" tvg-name="AMC HD" tvg-logo="" group-title="DIRECTO"AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7942.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="AMC" tvg-name="AMC HD" tvg-logo="" group-title="DIRECTO"AMC HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="AE" tvg-name="A&amp;E" tvg-logo="" group-title="DIRECTO"A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/9861.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="AE" tvg-name="A&amp;E" tvg-logo="" group-title="DIRECTO"A&amp;E</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Canal Decasa" tvg-name="Decasa" tvg-logo="" group-title="DIRECTO"Decasa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6421.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Canal Decasa" tvg-name="Decasa" tvg-logo="" group-title="DIRECTO"Decasa</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Sundance Channel" tvg-name="SUNDANCE" tvg-logo="" group-title="DIRECTO"SUNDANCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15858.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Sundance Channel" tvg-name="SUNDANCE" tvg-logo="" group-title="DIRECTO"SUNDANCE</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Canal Orbe 21" tvg-name="ORBE 21" tvg-logo="" group-title="DIRECTO"ORBE 21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15859.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Canal Orbe 21" tvg-name="ORBE 21" tvg-logo="" group-title="DIRECTO"ORBE 21</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="---------- CANALES TDT ----------" tvg-logo="" group-title=""---------- CANALES TDT ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/3.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="---------- CANALES TDT ----------" tvg-logo="" group-title=""---------- CANALES TDT ----------</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="LA 1 HD" tvg-name="La 1 HD" tvg-logo="" group-title="DIRECTO"La 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/8004.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="LA 1 HD" tvg-name="La 1 HD" tvg-logo="" group-title="DIRECTO"La 1 HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="LA 2" tvg-name="La 2 HD" tvg-logo="" group-title="DIRECTO"La 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15042.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="LA 2" tvg-name="La 2 HD" tvg-logo="" group-title="DIRECTO"La 2 HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Antena 3 HD" tvg-name="Antena 3 HD" tvg-logo="" group-title="DIRECTO"Antena 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/8005.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Antena 3 HD" tvg-name="Antena 3 HD" tvg-logo="" group-title="DIRECTO"Antena 3 HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Cuatro HD" tvg-name="Cuatro HD" tvg-logo="" group-title="DIRECTO"Cuatro HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/8006.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Cuatro HD" tvg-name="Cuatro HD" tvg-logo="" group-title="DIRECTO"Cuatro HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Telecinco HD" tvg-name="Telecinco HD" tvg-logo="" group-title="DIRECTO"Telecinco HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/8007.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Telecinco HD" tvg-name="Telecinco HD" tvg-logo="" group-title="DIRECTO"Telecinco HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="La Sexta HD" tvg-name="La Sexta HD" tvg-logo="" group-title="DIRECTO"La Sexta HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/8008.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="La Sexta HD" tvg-name="La Sexta HD" tvg-logo="" group-title="DIRECTO"La Sexta HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Energy" tvg-name="Energy" tvg-logo="" group-title="DIRECTO"Energy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7058.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Energy" tvg-name="Energy" tvg-logo="" group-title="DIRECTO"Energy</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="FDF Telecinco" tvg-name="FDF Telecinco" tvg-logo="" group-title="DIRECTO"FDF Telecinco</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/532.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="FDF Telecinco" tvg-name="FDF Telecinco" tvg-logo="" group-title="DIRECTO"FDF Telecinco</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="" group-title="DIRECTO"Paramount Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/785.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="" group-title="DIRECTO"Paramount Channel</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Divinity" tvg-name="DIVINITY" tvg-logo="" group-title="DIRECTO"DIVINITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/1299.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Divinity" tvg-name="DIVINITY" tvg-logo="" group-title="DIRECTO"DIVINITY</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Neox" tvg-name="Neox" tvg-logo="" group-title="DIRECTO"Neox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/14.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Neox" tvg-name="Neox" tvg-logo="" group-title="DIRECTO"Neox</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="MEGA" tvg-name="Mega" tvg-logo="" group-title="DIRECTO"Mega</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/75.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="MEGA" tvg-name="Mega" tvg-logo="" group-title="DIRECTO"Mega</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="a3series" tvg-name="A3 Series" tvg-logo="" group-title="DIRECTO"A3 Series</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/5995.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="a3series" tvg-name="A3 Series" tvg-logo="" group-title="DIRECTO"A3 Series</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="DKISS" tvg-logo="" group-title="DIRECTO"DKISS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/13742.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="DKISS" tvg-logo="" group-title="DIRECTO"DKISS</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Nova" tvg-name="Nova" tvg-logo="" group-title="DIRECTO"Nova</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7544.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Nova" tvg-name="Nova" tvg-logo="" group-title="DIRECTO"Nova</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="BEMADTV" tvg-name="BeMad HD" tvg-logo="" group-title="DIRECTO"BeMad HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/8000.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="BEMADTV" tvg-name="BeMad HD" tvg-logo="" group-title="DIRECTO"BeMad HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Ten" tvg-logo="" group-title="DIRECTO"Ten</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/8002.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Ten" tvg-logo="" group-title="DIRECTO"Ten</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Telemadridsat" tvg-name="TeleMadrid" tvg-logo="" group-title="DIRECTO"TeleMadrid</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/12216.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Telemadridsat" tvg-name="TeleMadrid" tvg-logo="" group-title="DIRECTO"TeleMadrid</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="La Otra" tvg-logo=":0:1:1A6:1838:22D4:EEEE0000:0:0:0:" group-title="DIRECTO"La Otra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/12226.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="La Otra" tvg-logo=":0:1:1A6:1838:22D4:EEEE0000:0:0:0:" group-title="DIRECTO"La Otra</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="ARAGON ASTRA SD 1.sp" tvg-name="Aragón TV" tvg-logo="" group-title="DIRECTO"Aragón TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/14867.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="ARAGON ASTRA SD 1.sp" tvg-name="Aragón TV" tvg-logo="" group-title="DIRECTO"Aragón TV</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Castilla La Mancha" tvg-logo="" group-title="DIRECTO"Castilla La Mancha</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15043.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Castilla La Mancha" tvg-logo="" group-title="DIRECTO"Castilla La Mancha</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="TVG ASTRA SD 1.sp" tvg-name="TV GALICIA" tvg-logo="" group-title="DIRECTO"TV GALICIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/9860.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="TVG ASTRA SD 1.sp" tvg-name="TV GALICIA" tvg-logo="" group-title="DIRECTO"TV GALICIA</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Canal Sur AndalucÃ­a" tvg-name="Andalucí­a TV" tvg-logo="" group-title="DIRECTO"Andalucí­a TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/12219.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Canal Sur AndalucÃ­a" tvg-name="Andalucí­a TV" tvg-logo="" group-title="DIRECTO"Andalucí­a TV</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="EXTREM HISPASAT SD 1.sp" tvg-name="Canal Extremadura" tvg-logo="" group-title="DIRECTO"Canal Extremadura</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/13619.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="EXTREM HISPASAT SD 1.sp" tvg-name="Canal Extremadura" tvg-logo="" group-title="DIRECTO"Canal Extremadura</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="13tv.es" tvg-name="13tv" tvg-logo="" group-title="DIRECTO"13tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/540.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="13tv.es" tvg-name="13tv" tvg-logo="" group-title="DIRECTO"13tv</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Intereconomia.sp" tvg-name="IntereconomÃ­a" tvg-logo="" group-title="DIRECTO"IntereconomÃ­a</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/12225.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Intereconomia.sp" tvg-name="IntereconomÃ­a" tvg-logo="" group-title="DIRECTO"IntereconomÃ­a</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="24H TDT SD 3.sp" tvg-name="Canal 24 horas" tvg-logo="" group-title="DIRECTO"Canal 24 horas</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7053.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="24H TDT SD 3.sp" tvg-name="Canal 24 horas" tvg-logo="" group-title="DIRECTO"Canal 24 horas</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="---------- CANALES DEPORTES ----------" tvg-logo="" group-title=""---------- CANALES DEPORTES ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/5.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="---------- CANALES DEPORTES ----------" tvg-logo="" group-title=""---------- CANALES DEPORTES ----------</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Bein LaLiga" tvg-name="Bein LaLiga" tvg-logo="" group-title="DIRECTO"Bein LaLiga</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/12267.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Bein LaLiga" tvg-name="Bein LaLiga" tvg-logo="" group-title="DIRECTO"Bein LaLiga</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Bein LaLiga" tvg-name="Bein LaLiga 720" tvg-logo="" group-title="DIRECTO"Bein LaLiga 720</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/9856.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Bein LaLiga" tvg-name="Bein LaLiga 720" tvg-logo="" group-title="DIRECTO"Bein LaLiga 720</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Bein LaLiga" tvg-name="BeIN Laliga HD 1080" tvg-logo="" group-title="DIRECTO"BeIN Laliga HD 1080</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/12248.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Bein LaLiga" tvg-name="BeIN Laliga HD 1080" tvg-logo="" group-title="DIRECTO"BeIN Laliga HD 1080</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Bein Sports ES HD" tvg-name="BeIN Sports" tvg-logo="" group-title="DIRECTO"BeIN Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="Bein Sports ES HD" tvg-name="BeIN Sports" tvg-logo="" group-title="DIRECTO",BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Bein Sports ES HD" tvg-name="BeIN Sports" tvg-logo="" group-title="DIRECTO"BeIN Sports</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/12268.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Bein Sports ES HD" tvg-name="BeIN Sports 720" tvg-logo="" group-title="DIRECTO"BeIN Sports 720</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="Bein Sports ES HD" tvg-name="BeIN Sports 720" tvg-logo="" group-title="DIRECTO",BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Bein Sports ES HD" tvg-name="BeIN Sports 720" tvg-logo="" group-title="DIRECTO"BeIN Sports 720</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/748.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Bein Sports ES HD" tvg-name="BeIN Sports HD 1080" tvg-logo="" group-title="DIRECTO"BeIN Sports HD 1080</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="Bein Sports ES HD" tvg-name="BeIN Sports HD 1080" tvg-logo="" group-title="DIRECTO",BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Bein Sports ES HD" tvg-name="BeIN Sports HD 1080" tvg-logo="" group-title="DIRECTO"BeIN Sports HD 1080</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/11104.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="CPDEP ASTRA HD 1.sp" tvg-name="Movistar+ Deportes" tvg-logo="" group-title="DIRECTO"Movistar+ Deportes</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/12269.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CPDEP ASTRA HD 1.sp" tvg-name="Movistar+ Deportes" tvg-logo="" group-title="DIRECTO"Movistar+ Deportes</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Deportes" tvg-name="Movistar+ Deportes 720" tvg-logo="" group-title="DIRECTO"Movistar+ Deportes 720</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/36.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Deportes" tvg-name="Movistar+ Deportes 720" tvg-logo="" group-title="DIRECTO"Movistar+ Deportes 720</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="DeportesHD" tvg-name="Movistar+ Deportes HD 1080" tvg-logo="" group-title="DIRECTO"Movistar+ Deportes HD 1080</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/750.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="DeportesHD" tvg-name="Movistar+ Deportes HD 1080" tvg-logo="" group-title="DIRECTO"Movistar+ Deportes HD 1080</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Deportes 2" tvg-name="Movistar+ Deportes2" tvg-logo="" group-title="DIRECTO"Movistar+ Deportes2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/110.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Deportes 2" tvg-name="Movistar+ Deportes2" tvg-logo="" group-title="DIRECTO"Movistar+ Deportes2</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Canal+ Deportes2 HD" tvg-name="Movistar+ Deportes2 HD 1080" tvg-logo="" group-title="DIRECTO"Movistar+ Deportes2 HD 1080</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7952.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Canal+ Deportes2 HD" tvg-name="Movistar+ Deportes2 HD 1080" tvg-logo="" group-title="DIRECTO"Movistar+ Deportes2 HD 1080</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Bein LaLiga1" tvg-name="Bein La Liga 1 HD" tvg-logo="" group-title="DIRECTO"Bein La Liga 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/12221.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Bein LaLiga1" tvg-name="Bein La Liga 1 HD" tvg-logo="" group-title="DIRECTO"Bein La Liga 1 HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="BELIGA ASTRA SD 2.sp" tvg-name="Bein La Liga 2 HD" tvg-logo="" group-title="DIRECTO"Bein La Liga 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/13338.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="BELIGA ASTRA SD 2.sp" tvg-name="Bein La Liga 2 HD" tvg-logo="" group-title="DIRECTO"Bein La Liga 2 HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Bein LaLiga 3" tvg-logo="" group-title="DIRECTO"Bein LaLiga 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/10050.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Bein LaLiga 3" tvg-logo="" group-title="DIRECTO"Bein LaLiga 3</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Bein LaLiga 4" tvg-logo="" group-title="DIRECTO"Bein LaLiga 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/10051.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Bein LaLiga 4" tvg-logo="" group-title="DIRECTO"Bein LaLiga 4</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Bein LaLiga 5" tvg-logo="" group-title="DIRECTO"Bein LaLiga 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/10054.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Bein LaLiga 5" tvg-logo="" group-title="DIRECTO"Bein LaLiga 5</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Bein LaLiga 6" tvg-logo="" group-title="DIRECTO"Bein LaLiga 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/10055.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Bein LaLiga 6" tvg-logo="" group-title="DIRECTO"Bein LaLiga 6</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Bein LaLiga 7" tvg-logo="" group-title="DIRECTO"Bein LaLiga 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/10056.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Bein LaLiga 7" tvg-logo="" group-title="DIRECTO"Bein LaLiga 7</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="La Liga TV Bar HD" tvg-logo="" group-title="DIRECTO"La Liga TV Bar HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15915.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="La Liga TV Bar HD" tvg-logo="" group-title="DIRECTO"La Liga TV Bar HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="LaLiga 123 TV HD" tvg-logo="" group-title="DIRECTO"LaLiga 123 TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15937.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="LaLiga 123 TV HD" tvg-logo="" group-title="DIRECTO"LaLiga 123 TV HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="LaLiga 123 TV HD 720" tvg-logo="" group-title="DIRECTO"LaLiga 123 TV HD 720</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/16007.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="LaLiga 123 TV HD 720" tvg-logo="" group-title="DIRECTO"LaLiga 123 TV HD 720</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="LaLiga 123 TV HD Multi 1/OpenSport" tvg-logo="" group-title="DIRECTO"LaLiga 123 TV HD Multi 1/OpenSport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/13571.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="LaLiga 123 TV HD Multi 1/OpenSport" tvg-logo="" group-title="DIRECTO"LaLiga 123 TV HD Multi 1/OpenSport</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Partidazo" tvg-name="Movistar+ Partidazo" tvg-logo="" group-title="DIRECTO"Movistar+ Partidazo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/12271.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Partidazo" tvg-name="Movistar+ Partidazo" tvg-logo="" group-title="DIRECTO"Movistar+ Partidazo</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Partidazo" tvg-name="Movistar+ Partidazo 720" tvg-logo="" group-title="DIRECTO"Movistar+ Partidazo 720</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/80.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Partidazo" tvg-name="Movistar+ Partidazo 720" tvg-logo="" group-title="DIRECTO"Movistar+ Partidazo 720</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Partidazo" tvg-name="Movistar+ Partidazo HD 1080" tvg-logo="" group-title="DIRECTO"Movistar+ Partidazo HD 1080</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/752.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Partidazo" tvg-name="Movistar+ Partidazo HD 1080" tvg-logo="" group-title="DIRECTO"Movistar+ Partidazo HD 1080</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="MOVISTAR F1" tvg-name="Movistar+ F1" tvg-logo="" group-title="DIRECTO"Movistar+ F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/14706.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="MOVISTAR F1" tvg-name="Movistar+ F1" tvg-logo="" group-title="DIRECTO"Movistar+ F1</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="MOVISTAR F1" tvg-name="Movistar+ F1 HD" tvg-logo="" group-title="DIRECTO"Movistar+ F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7056.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="MOVISTAR F1" tvg-name="Movistar+ F1 HD" tvg-logo="" group-title="DIRECTO"Movistar+ F1 HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="MOVISTAR GP" tvg-name="Movistar+ Moto GP" tvg-logo="" group-title="DIRECTO"Movistar+ Moto GP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/14707.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="MOVISTAR GP" tvg-name="Movistar+ Moto GP" tvg-logo="" group-title="DIRECTO"Movistar+ Moto GP</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="MOVISTAR GP" tvg-name="Movistar+ Moto GP HD" tvg-logo="" group-title="DIRECTO"Movistar+ Moto GP HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7055.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="MOVISTAR GP" tvg-name="Movistar+ Moto GP HD" tvg-logo="" group-title="DIRECTO"Movistar+ Moto GP HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Futbol" tvg-name="Movistar+ Futbol" tvg-logo="" group-title="DIRECTO"Movistar+ Futbol</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/618.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Futbol" tvg-name="Movistar+ Futbol" tvg-logo="" group-title="DIRECTO"Movistar+ Futbol</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Futbol" tvg-name="Movistar+ Futbol 720" tvg-logo="" group-title="DIRECTO"Movistar+ Futbol 720</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/13198.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Futbol" tvg-name="Movistar+ Futbol 720" tvg-logo="" group-title="DIRECTO"Movistar+ Futbol 720</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Futbol" tvg-name="Movistar+ Futbol HD" tvg-logo="" group-title="DIRECTO"Movistar+ Futbol HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6428.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Futbol" tvg-name="Movistar+ Futbol HD" tvg-logo="" group-title="DIRECTO"Movistar+ Futbol HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="GOLTV" tvg-name="GOL" tvg-logo="" group-title="DIRECTO"GOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/8094.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="GOLTV" tvg-name="GOL" tvg-logo="" group-title="DIRECTO"GOL</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="GOL HD" tvg-logo="" group-title="DIRECTO"GOL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15911.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="GOL HD" tvg-logo="" group-title="DIRECTO"GOL HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Teledeporte" tvg-name="TELEDEPORTE HD" tvg-logo="" group-title="DIRECTO"TELEDEPORTE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7997.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Teledeporte" tvg-name="TELEDEPORTE HD" tvg-logo="" group-title="DIRECTO"TELEDEPORTE HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Golf" tvg-name="Movistar+ Golf" tvg-logo="" group-title="DIRECTO"Movistar+ Golf</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/66.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Golf" tvg-name="Movistar+ Golf" tvg-logo="" group-title="DIRECTO"Movistar+ Golf</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Canal+ Golf HD" tvg-name="Movistar+ Golf HD" tvg-logo="" group-title="DIRECTO"Movistar+ Golf HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7948.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Canal+ Golf HD" tvg-name="Movistar+ Golf HD" tvg-logo="" group-title="DIRECTO"Movistar+ Golf HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="TOROS" tvg-name="Canal+ Toros" tvg-logo="" group-title="DIRECTO"Canal+ Toros</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/16003.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="TOROS" tvg-name="Canal+ Toros" tvg-logo="" group-title="DIRECTO"Canal+ Toros</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Plus Toros" tvg-name="Canal+ Toros HD" tvg-logo="" group-title="DIRECTO"Canal+ Toros HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7054.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Plus Toros" tvg-name="Canal+ Toros HD" tvg-logo="" group-title="DIRECTO"Canal+ Toros HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="EUROSPORT" tvg-name="Eurosport 1" tvg-logo="" group-title="DIRECTO"Eurosport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/3140.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="EUROSPORT" tvg-name="Eurosport 1" tvg-logo="" group-title="DIRECTO"Eurosport 1</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="EUROSPORT HD" tvg-name="Eurosport 1 HD 1080" tvg-logo="" group-title="DIRECTO"Eurosport 1 HD 1080</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7954.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="EUROSPORT HD" tvg-name="Eurosport 1 HD 1080" tvg-logo="" group-title="DIRECTO"Eurosport 1 HD 1080</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="EUROSPORT 2" tvg-name="Eurosport 2" tvg-logo="" group-title="DIRECTO"Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/3141.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="EUROSPORT 2" tvg-name="Eurosport 2" tvg-logo="" group-title="DIRECTO"Eurosport 2</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="DIRECTO"Eurosport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15912.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="DIRECTO"Eurosport 2 HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="BEIN MAX 1" tvg-logo="" group-title="DIRECTO"BEIN MAX 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6410.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="BEIN MAX 1" tvg-logo="" group-title="DIRECTO"BEIN MAX 1</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Bein Max 1 HD" tvg-logo="" group-title="DIRECTO"Bein Max 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/12222.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Bein Max 1 HD" tvg-logo="" group-title="DIRECTO"Bein Max 1 HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="BEIN MAX 2" tvg-logo="" group-title="DIRECTO"BEIN MAX 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6413.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="BEIN MAX 2" tvg-logo="" group-title="DIRECTO"BEIN MAX 2</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="BeIN Max 2 HD" tvg-logo="" group-title="DIRECTO"BeIN Max 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/12240.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="BeIN Max 2 HD" tvg-logo="" group-title="DIRECTO"BeIN Max 2 HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="BEIN MAX 3" tvg-logo="" group-title="DIRECTO"BEIN MAX 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6414.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="BEIN MAX 3" tvg-logo="" group-title="DIRECTO"BEIN MAX 3</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="BEIN MAX 4" tvg-logo="" group-title="DIRECTO"BEIN MAX 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6415.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="BEIN MAX 4" tvg-logo="" group-title="DIRECTO"BEIN MAX 4</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="BEIN MAX 5" tvg-logo="" group-title="DIRECTO"BEIN MAX 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6416.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="BEIN MAX 5" tvg-logo="" group-title="DIRECTO"BEIN MAX 5</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="BEIN MAX 6" tvg-logo="" group-title="DIRECTO"BEIN MAX 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6411.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="BEIN MAX 6" tvg-logo="" group-title="DIRECTO"BEIN MAX 6</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="BEIN MAX 7" tvg-logo="" group-title="DIRECTO"BEIN MAX 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6412.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="BEIN MAX 7" tvg-logo="" group-title="DIRECTO"BEIN MAX 7</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="BEIN MAX 8" tvg-logo="" group-title="DIRECTO"BEIN MAX 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6417.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="BEIN MAX 8" tvg-logo="" group-title="DIRECTO"BEIN MAX 8</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Multideporte" tvg-logo="" group-title="DIRECTO"Multideporte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15985.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Multideporte" tvg-logo="" group-title="DIRECTO"Multideporte</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Multideporte 1" tvg-logo="" group-title="DIRECTO"Multideporte 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15983.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Multideporte 1" tvg-logo="" group-title="DIRECTO"Multideporte 1</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Multideporte 2" tvg-logo="" group-title="DIRECTO"Multideporte 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15984.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Multideporte 2" tvg-logo="" group-title="DIRECTO"Multideporte 2</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="" group-title="DIRECTO"Real Madrid TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/25.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="" group-title="DIRECTO"Real Madrid TV</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Real Madrid TV" tvg-name="Real Madrid TV HD" tvg-logo="" group-title="DIRECTO"Real Madrid TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/8001.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Real Madrid TV" tvg-name="Real Madrid TV HD" tvg-logo="" group-title="DIRECTO"Real Madrid TV HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Betis TV" tvg-logo="" group-title="DIRECTO"Betis TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/16157.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Betis TV" tvg-logo="" group-title="DIRECTO"Betis TV</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Sevilla TV" tvg-logo="" group-title="DIRECTO"Sevilla TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/16156.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Sevilla TV" tvg-logo="" group-title="DIRECTO"Sevilla TV</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Barca TV" tvg-name="Barca TV" tvg-logo="" group-title="DIRECTO"Barca TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7991.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Barca TV" tvg-name="Barca TV" tvg-logo="" group-title="DIRECTO"Barca TV</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Movistar+ Esports" tvg-name="Movistar eSports HD" tvg-logo="" group-title="DIRECTO"Movistar eSports HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="Movistar+ Esports" tvg-name="Movistar eSports HD" tvg-logo="" group-title="DIRECTO",Movistar eSports&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Movistar+ Esports" tvg-name="Movistar eSports HD" tvg-logo="" group-title="DIRECTO"Movistar eSports HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/16153.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="---------- CANALES INFANTILES ----------" tvg-logo="" group-title=""---------- CANALES INFANTILES ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/8.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="---------- CANALES INFANTILES ----------" tvg-logo="" group-title=""---------- CANALES INFANTILES ----------</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Baby TV" tvg-name="BABY TV" tvg-logo="" group-title="DIRECTO"BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/1298.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Baby TV" tvg-name="BABY TV" tvg-logo="" group-title="DIRECTO"BABY TV</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Boing" tvg-name="Boing" tvg-logo="" group-title="DIRECTO"Boing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/115.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Boing" tvg-name="Boing" tvg-logo="" group-title="DIRECTO"Boing</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Canal Panda" tvg-name="CANAL PANDA" tvg-logo="" group-title="DIRECTO"CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/786.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Canal Panda" tvg-name="CANAL PANDA" tvg-logo="" group-title="DIRECTO"CANAL PANDA</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="CLANTV TDT SD 2.sp" tvg-name="Clan TVE HD" tvg-logo="" group-title="DIRECTO"Clan TVE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15031.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CLANTV TDT SD 2.sp" tvg-name="Clan TVE HD" tvg-logo="" group-title="DIRECTO"Clan TVE HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="DISNEY CHANNEL" tvg-name="Disney Channel" tvg-logo="" group-title="DIRECTO"Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/111.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="DISNEY CHANNEL" tvg-name="Disney Channel" tvg-logo="" group-title="DIRECTO"Disney Channel</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="" group-title="DIRECTO"Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/81.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="" group-title="DIRECTO"Disney Junior</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="DISNEY XD" tvg-name="Disney XD" tvg-logo="" group-title="DIRECTO"Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/53.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="DISNEY XD" tvg-name="Disney XD" tvg-logo="" group-title="DIRECTO"Disney XD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Sky Disney" tvg-name="M. Disney" tvg-logo="" group-title="DIRECTO"M. Disney</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15350.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Sky Disney" tvg-name="M. Disney" tvg-logo="" group-title="DIRECTO"M. Disney</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="NICKELODEON" tvg-name="Nickelodeon" tvg-logo="" group-title="DIRECTO"Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/9862.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="NICKELODEON" tvg-name="Nickelodeon" tvg-logo="" group-title="DIRECTO"Nickelodeon</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="NICK JUNIOR" tvg-name="Nick Jr" tvg-logo="" group-title="DIRECTO"Nick Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/13745.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="NICK JUNIOR" tvg-name="Nick Jr" tvg-logo="" group-title="DIRECTO"Nick Jr</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="---------- CANALES MUSICA ----------" tvg-logo="" group-title=""---------- CANALES MUSICA ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/4.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="---------- CANALES MUSICA ----------" tvg-logo="" group-title=""---------- CANALES MUSICA ----------</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="MTV EspaÃ±a" tvg-name="MTV ESPAÑA" tvg-logo="" group-title="DIRECTO"MTV ESPAÑA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/1300.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="MTV EspaÃ±a" tvg-name="MTV ESPAÑA" tvg-logo="" group-title="DIRECTO"MTV ESPAÑA</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Hollywood" tvg-name="HIT TV" tvg-logo="" group-title="DIRECTO"HIT TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/13630.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Hollywood" tvg-name="HIT TV" tvg-logo="" group-title="DIRECTO"HIT TV</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="One Music HD" tvg-logo="" group-title="DIRECTO"One Music HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15913.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="One Music HD" tvg-logo="" group-title="DIRECTO"One Music HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Retro TV" tvg-logo="" group-title="DIRECTO"Retro TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15914.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Retro TV" tvg-logo="" group-title="DIRECTO"Retro TV</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="---------- CANALES DOCUMENTALES ----------" tvg-logo="" group-title=""---------- CANALES DOCUMENTALES ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="---------- CANALES DOCUMENTALES ----------" tvg-logo="" group-title=""---------- CANALES DOCUMENTALES ----------</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="" group-title="DIRECTO"Discovery Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7953.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="" group-title="DIRECTO"Discovery Channel</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="" group-title="DIRECTO"Discovery Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15987.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="" group-title="DIRECTO"Discovery Channel HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="CI" tvg-name="Crimen + Investigación" tvg-logo="" group-title="DIRECTO"Crimen + Investigación</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/10065.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CI" tvg-name="Crimen + Investigación" tvg-logo="" group-title="DIRECTO"Crimen + Investigación</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="DMAX" tvg-name="Discovery MAX" tvg-logo="" group-title="DIRECTO"Discovery MAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/3565.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="DMAX" tvg-name="Discovery MAX" tvg-logo="" group-title="DIRECTO"Discovery MAX</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Canal Cocina" tvg-name="Canal Cocina" tvg-logo="" group-title="DIRECTO"Canal Cocina</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/14899.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Canal Cocina" tvg-name="Canal Cocina" tvg-logo="" group-title="DIRECTO"Canal Cocina</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Caza y Pesca" tvg-name="Caza y pesca" tvg-logo="" group-title="DIRECTO"Caza y pesca</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/54.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Caza y Pesca" tvg-name="Caza y pesca" tvg-logo="" group-title="DIRECTO"Caza y pesca</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Caza y Pesca HD" tvg-name="Caza y Pesca HD" tvg-logo="" group-title="DIRECTO"Caza y Pesca HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/10312.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Caza y Pesca HD" tvg-name="Caza y Pesca HD" tvg-logo="" group-title="DIRECTO"Caza y Pesca HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Historia" tvg-name="Historia" tvg-logo="" group-title="DIRECTO"Historia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/78.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Historia" tvg-name="Historia" tvg-logo="" group-title="DIRECTO"Historia</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Iberalia" tvg-name="Iberalia" tvg-logo="" group-title="DIRECTO"Iberalia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/791.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Iberalia" tvg-name="Iberalia" tvg-logo="" group-title="DIRECTO"Iberalia</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="National Geographic Wild HD" tvg-name="National Geographic Wild HD" tvg-logo="" group-title="DIRECTO"National Geographic Wild HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/7949.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="National Geographic Wild HD" tvg-name="National Geographic Wild HD" tvg-logo="" group-title="DIRECTO"National Geographic Wild HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="" group-title="DIRECTO"National Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/33.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="" group-title="DIRECTO"National Geographic</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="" group-title="DIRECTO"National Geographic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/6433.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="" group-title="DIRECTO"National Geographic HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Odisea" tvg-name="Odisea" tvg-logo="" group-title="DIRECTO"Odisea</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/34.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Odisea" tvg-name="Odisea" tvg-logo="" group-title="DIRECTO"Odisea</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="" tvg-name="Odisea HD" tvg-logo="" group-title="DIRECTO"Odisea HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/15990.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Odisea HD" tvg-logo="" group-title="DIRECTO"Odisea HD</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Viajar" tvg-name="Viajar" tvg-logo="" group-title="DIRECTO"Viajar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/68.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Viajar" tvg-name="Viajar" tvg-logo="" group-title="DIRECTO"Viajar</link> 
+        </item> 
+          <item> 
+           <title>[COLOR red] DIABLO TV[/COLOR] tvg-id="Viajar HD" tvg-name="Viajar HD 1080" tvg-logo="" group-title="DIRECTO"Viajar HD 1080</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/10774.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Viajar HD" tvg-name="Viajar HD 1080" tvg-logo="" group-title="DIRECTO"Viajar HD 1080</link> 
+        </item> 
+  
