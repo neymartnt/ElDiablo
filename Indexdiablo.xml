@@ -14,23 +14,8 @@
 <externallink></externallink>
 </item>
 
- 
-<item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] AUTONOMICAS[/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart><fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGMASTER4/master/autonomicos.xml</externallink> 
-<item>
 
- 
-<item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] TDT[/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart><fanart>
-<externallink>https://raw.githubusercontent.com/neymartnt/ElDiablo/master/TDTD.xml</externallink> 
-<item>
+
 
 
 <item>
@@ -39,6 +24,19 @@
 <thumbnail>https://i.imgur.com/9GLCbiI.jpg</thumbnail>
 <fanart>https://i.imgur.com/9GLCbiI.jpg<fanart>
 <externallink>https://raw.githubusercontent.com/neymartnt/ElDiablo/master/deportes.xml</externallink> 
+<item>
+
+
+
+<!-------------
+
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] TDT[/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart><fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/ElDiablo/master/TDTD.xml</externallink> 
 <item>
 
 
@@ -58,3 +56,4 @@
 <fanart><fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGMASTER4/master/DOCUMNTALES.xml</externallink> 
 <item>
+
