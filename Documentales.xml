@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
  
  <item>
 <title>[COLOR yellow] [COLOR skyblue] DISCOVERY CHANNEL [/COLOR]</title>
@@ -10,6 +11,21 @@
 <fanart></fanart>
 </item>
 
+
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] TOROSTV*[/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live1/toros.php</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/toros.php</page>
+<referer>http://www.vercanalestv.com/ver-toros-online-en-directo-las-24h-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
  
  <item>
 <title>[COLOR yellow] [COLOR skyblue] DMAX [/COLOR]</title>
