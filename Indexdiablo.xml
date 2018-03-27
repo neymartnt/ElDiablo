@@ -19,7 +19,7 @@
 
 
 <item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR white] Avezy[/COLOR][/B][COLOR lime][I] Addon Avezy Necesario[/I][/COLOR][COLOR yellow]_**_  [/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR skyblue] Avezy[/COLOR][COLOR lime][I] Addon Avezy Necesario[/I][/COLOR][COLOR yellow] _**_  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.avezy/</jsonrpc>
 <thumbnail></thumbnail>
@@ -27,7 +27,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR white] Deportes a la carta[/COLOR][/B][COLOR lime][I] Addon Necesario[/I][/COLOR][COLOR yellow]_**_  [/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR skyblue] Deportes a la carta[/COLOR][COLOR lime][I] Addon Necesario[/I][/COLOR][COLOR yellow] _**_  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.deportesalacarta/</jsonrpc>
 <thumbnail></thumbnail>
