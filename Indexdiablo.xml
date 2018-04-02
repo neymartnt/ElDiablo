@@ -16,7 +16,22 @@
 <externallink></externallink>
 </item>
 
-
+<item>
+<title>[COLOR red] CANALES  Sportdevil [COLOR white] ** [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR gold][makelist.param1][/COLOR]</title>
+<thumbnail>[makelist.param4]</thumbnail>
+<sportsdevil>[makelist.param2]</sportsdevil>
+<referer>[makelist.param3]</referer>
+]]></listrepeat>
+<expres><![CDATA[canal:"(.*?)" url:"(.*?)" referer:"(.*?)" logo:"(.*?)";]]></expres>
+<page>https://pastebin.com/raw/3e4cjRim</page>
+</regex>
+</item>
 
 <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR skyblue] Avezy[/COLOR][COLOR lime][I] Addon Avezy Necesario[/I][/COLOR][COLOR yellow] _**_  [/COLOR]</title>
