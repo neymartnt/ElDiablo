@@ -391,4 +391,1212 @@ item>
 </item>
 
 
+<items>
+
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]#0[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=movistarcero&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/plus0.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]La 1[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedna.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=la1&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://telefivegb.com/wp-content/uploads/2016/09/tv1.png<thumbnail> 
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]LA 2[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=la2&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/tve2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]La 2[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedna.php?file=la2&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=la2&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://telefivegb.com/wp-content/uploads/2016/07/tv2.png<thumbnail> 
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Antena 3 HD[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedna.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=antena3&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://telefivegb.com/wp-content/uploads/2016/07/antena3.png<thumbnail> 
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]CUATRO[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=cuatro&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>http://livesports.pw/embedna.php?file=cuatro&width=650&height=397
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/cuatro.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]TELECINCO[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=telecinco&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/telecinco.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]LA SEXTA HD[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=lasexta&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://telefivegb.com/wp-content/uploads/2016/07/lasexta11.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]HOLLYWOOD[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=hollywesp&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/holliwood.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]FOX[/B][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/fox.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/fox.png</thumbnail>
+</item>
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]SERIES[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=movistarseries&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/series.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]SERIES XTRA[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=movistarseriesxtra&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/seriesxtra.png</thumbnail>
+</item>
+
+<item><title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]AXN [/B][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/axn.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/axn.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]AXN [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=axn&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/axn.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]TNT [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=tntesp&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/tnt.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]AMC[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=amcesptele&width=650&height=420</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]National Geographic [/B][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/nationalgeo.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/national.png</thumbnail>
+</item>
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]NACIONAL GEOGRAFIC [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=natgeo&width=650&height=405</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/national.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]HISTORIA [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=historiaesp&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/history.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]CRIMEN E INVESTIGACION[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=crimenyinvestigacion&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://latelete.tv/img/ci.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Caza y Pesca [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=cazaypesca&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/cazapesca.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]ODISEA [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=odiseatelef&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/odisea.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Cocina [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=cocinaesp&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]DIVINITY[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.326</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=divinity&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]ENERGY[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=energy&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]ENERGY[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=energy&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]BOING[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=boing&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tutele.s3.amazonaws.com/wp-content/uploads/2014/08/Boing-Logo-Mediaset.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]BOING[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=boing&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tutele.s3.amazonaws.com/wp-content/uploads/2014/08/Boing-Logo-Mediaset.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]CALLE 13[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=calltrees&width=650&height=400</page>>
+<referer>http://cinestrenostv.tv/canales/envivo/calle13.html</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/calle13.png</thumbnail>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]CALLE 13[/B][/COLOR]</title>
+   <sportsdevil>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8|User-Agent=Mozilla/5.0</sportsdevil>
+    <referer>http://vercanalestv.com/tv/nacionales/13tv.html</referer>
+   <thumbnail>http://cinestrenostv.tv/img/calle13.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]TOROS [/B][/COLOR]</title>torotv
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=torotv&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]#0[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=movistarcero&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]#0 [/B][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/plus1.php</page>
+<referer>http://www.vercanalestv.com/tv/nacionales/canal-plus-1.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/d/d9/Cero3.png/revision/latest?cb=20160313142148</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]ACCION [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=accion&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]DCINE [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=dicneesp&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]XTRA[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=mxtra&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]ESTRENOS[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=movestr&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]COMEDIA[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=mcomedia&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]La Liga Tv[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=barligas&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://files.laliga.es/seccion_logos/laliga-v-600x600.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]BEIN SPORT LALIGA [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=beinlaliga&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://verplusonline.com/wp-content/uploads/2016/07/bein-sport-liga.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Bein Sport Ñ[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=beinsportn&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/bein_sports_spanish_c.png</thumbnail>
+</item>
+</items>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]M Partidazo[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=partidazo&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPPART</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]M Moto Gp[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=motogpm&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MVMTGP</thumbnail>
+</item>
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]M Golf[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=golfesp&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/GOLF%2B</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Liga 123[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=ligaunodostres&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/liga2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Barça Tv[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=barca&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/BARNA</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]M Deportes 2[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=deportedos&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPD2</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Eurosport 1[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=eurosportsesp&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/ESP</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Eurosport 2[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=eurosportsdosesp&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/ESP2</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]La Liga[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.ucasterplayer.com/hembedplayer/ligalu/1/650/400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/LIGA</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Bein Sport La Liga[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=beinlaliga&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/BELIGA</thumbnail>
+</item>http://www.ucasterplayer.com/hembedplayer/ligaluckluck/1/650/400
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Bein Sport[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=beinsport&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CHUEFA</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Bein Sport Ñ[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=beinsportn&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/bein_sports_spanish_c.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Liga 123[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=ligaunodostres&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/liga2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]M Deportes 1[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=deporteone&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPDEP</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]M Deportes 2[/B][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live1/plusdeportes2.php</page>
+<referer>http://verdirectotv.com/tv/deportes/plusdeportes2.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CPD2</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]M Formula 1[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=funoesp&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/MVF1</thumbnail>
+</item>
+
+<item>	
+<sportsdevil>http://vercanalestv.com/tv/deportes/motogp-multi.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/</referer>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]M Moto Gp[/B][/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/motogp.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]M Moto Gp[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=motogpm&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinestrenostv.tv/img/motogp.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]GOLtv[/B][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live1/goltv.php</page>
+<referer>http://verdirectotv.com/tv/deportes2/golnuevo.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/GOL</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Teledeporte[/B][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live1/teledeporte.php</page>
+<referer>http://vercanalestv.com/tv/deportes/teledeporte.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/TDEP</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Eurosport 1[/B][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live1/eurosport.php</page>
+<referer>http://verdirectotv.com/tv/deportes2/eurosport.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/ESP</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Eurosport 2[/B][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live1/eurosport2.php</page>
+<referer>http://vercanalestv.com/tv/deportes/eurosport-2.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/ESP2</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Caza y Pesca[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=cazaypesca&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CAZPES.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Toros[/B][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live1/toros.php</page>
+<referer>http://verdirectotv.com/tv/digitales2/plustoros.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www1.movistarplus.es/recorte/m-NEO/canal/CFERIA</thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]COMEDY CENTRAL [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=comedycentral&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]FOX life [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=disneychannel&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]HISTORIA [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=historiaesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]HOLLYWOOD[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36 OPR/46.0.2597.32</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=hollywesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]SYFY [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B +Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=sysfesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]TNT [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B +Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=tntesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]ACCION [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B +Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=accion&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]DCINE [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B +Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=dicneesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]XTRA[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B +Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=mxtra&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]ESTRENOS[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B +Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=movestr&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]COMEDIA[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B +Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=mcomedia&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Caza y Pesca [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B +Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=cazaypesca&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Teledeporte[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B +Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=teledeporteesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Discovery Channel[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=discoverychannel&width=650&height=397&autostart=true</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-I01lKFxj3bY/WdwBBNvzJQI/AAAAAAAABzY/RQPXlU28UmAKqeHeHLT3uDev1a1_KkDGQCK4BGAYYCw/s1600/discovery%2Bchanelero.jpg</thumbnail>
+<fanart>https://www.adslzone.tv/app/uploads/2015/12/discovery-channel.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Discovery Channel[/B][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/discovery-channel.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-I01lKFxj3bY/WdwBBNvzJQI/AAAAAAAABzY/RQPXlU28UmAKqeHeHLT3uDev1a1_KkDGQCK4BGAYYCw/s1600/discovery%2Bchanelero.jpg</thumbnail>
+<fanart>https://www.adslzone.tv/app/uploads/2015/12/discovery-channel.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Historia [/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=historiaesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-zP6ZYFpVMM0/WdwBBPxf4vI/AAAAAAAAB0I/0xxxH-debSMTkIZVArdlXFsgpfw-Z34RgCK4BGAYYCw/s1600/historia.jpg</thumbnail>   
+<fanart>http://estaticoshumor.atresmedia.com/wp-content/uploads/2016/11/historiatestportada-940x400.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Historia [/B][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/historia.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-zP6ZYFpVMM0/WdwBBPxf4vI/AAAAAAAAB0I/0xxxH-debSMTkIZVArdlXFsgpfw-Z34RgCK4BGAYYCw/s1600/historia.jpg</thumbnail>   
+<fanart>http://estaticoshumor.atresmedia.com/wp-content/uploads/2016/11/historiatestportada-940x400.jpg</fanart>
+</item>
+-------------------------------
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]National Geographic [/B][/COLOR]</title>
+<sportsdevil>http://livesports.pw/embedna.php?file=natgeo&width=650&height=397&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/canales/documental/natgeoembed.php</referer>
+<thumbnail>http://2.bp.blogspot.com/-6ZGqAH3JXW4/WdwBBO53kJI/AAAAAAAAB0k/rDbYR3pLyoMYLxpe8eevF4JoGcSnQDHtQCK4BGAYYCw/s1600/national%2Bgeografica.jpg</thumbnail>   
+<fanart>https://orig00.deviantart.net/9a37/f/2012/048/8/4/nat_geo_wallpaper_by_johnnyslowhand-d4q0zf1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]National Geographic [/B][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/nationalgeo.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-6ZGqAH3JXW4/WdwBBO53kJI/AAAAAAAAB0k/rDbYR3pLyoMYLxpe8eevF4JoGcSnQDHtQCK4BGAYYCw/s1600/national%2Bgeografica.jpg</thumbnail>   
+<fanart>https://orig00.deviantart.net/9a37/f/2012/048/8/4/nat_geo_wallpaper_by_johnnyslowhand-d4q0zf1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]NatGeo Wild[/B][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/nationalwild.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+<thumbnail>http://1.bp.blogspot.com/-5c1iC0rcOuI/WdwUNBlqTuI/AAAAAAAAB1w/iw179SALDRoNQHRKOWlH3X7TN-U4TIyAwCK4BGAYYCw/s1600/nachowilstors.jpg</thumbnail>   
+<fanart>http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/natgeo-wild-grande.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Caza y pesca[/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>videoUrl = '(.*?)'</expres>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=cazaypesca&width=650&height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-PV2R50pXaV0/WdwBBCIRB7I/AAAAAAAAB0M/n_P0GQYG9tEvDVpPq6kgjOAW8r-JR5-HwCK4BGAYYCw/s1600/casaypescaso.jpg</thumbnail>
+<fanart>http://scontent.cdninstagram.com/t51.2885-15/e35/13166816_1705502169703569_1977793477_n.jpg?ig_cache_key=MTI1MjA0MTEwODA3NzczODY0MQ==.2</fanart>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Cocina[/B][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/cocina.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-MoMQ903jUCo/WdwBBHL-GLI/AAAAAAAAB1E/f2Vt7Wc09-caDTZXoicM6EOiF5_GsfQ-wCK4BGAYYCw/s1600/cocina.jpg</thumbnail>
+<fanart>http://tienda.canalcocina.es/4899-tm_home_default/canalcocina.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Antena 3[/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-nyy_tjAhjtI/WdbKCu0PAmI/AAAAAAAABoc/WDoRjwvWX1cfKsiqDCOWF2LfPODuhnLVwCK4BGAYYCw/s1600/Antena%2B3.jpg</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxVwfjXkV1oRmU07WyCTFrkUItwNwl7hMNInivfre8adE32aAJQ</fanart>
+</item>
+ 
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Antena 3 Spain[/B][/COLOR]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-nyy_tjAhjtI/WdbKCu0PAmI/AAAAAAAABoc/WDoRjwvWX1cfKsiqDCOWF2LfPODuhnLVwCK4BGAYYCw/s1600/Antena%2B3.jpg</thumbnail>
+<fanart>http://fisioterapialasrozas.com/wp-content/uploads/2014/04/antena-3-noticias.jpg</fanart>
+</item> 
+ 
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]A3Series HD[/B][/COLOR]</title> 
+<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-rP6nKSGG9GY/Wdfhwnki0yI/AAAAAAAABtM/q59VtzDvFmUYbC81iysZektj9sePZrvuQCK4BGAYYCw/s1600/a3series.jpg</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZUF8d7HJtaXKg32xFmPUa52RVN663ZWCYBbe0FNIWl_S4wlyz</fanart>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]24H[/B][/COLOR]</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-AklBZbjbGW0/Wdz4Y8BYr6I/AAAAAAAAB_g/LF3NtOX9WjkcZSlhp0rhlZYbHzxgczyrACK4BGAYYCw/s1600/24he.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Nova[/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-g3VR6rHGyqw/Wdz4YjZXx5I/AAAAAAAAB_Q/CIMyQtvY5gcEChm23kHv2yuZVeLwOWVYACK4BGAYYCw/s1600/nova.jpg</thumbnail>
+<fanart>https://www.adslzone.tv/app/uploads/2013/09/Dibujo6.jpg?x=634&y=309</fanart>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]FDF[/B][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/fdf.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/tve-1.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-nq-in0Tgr4M/Wdz4Y7GoPKI/AAAAAAAAB_o/-9D3bhnrt8QavLR_VoyS__68d_73r2FqgCK4BGAYYCw/s1600/fdf.jpg</thumbnail>
+<fanart>http://www.mundoplus.tv/blogs/tvdigital/files/2014/04/vueltafdf.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]MEGA[/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-XkityGE7YQs/WdwqaiArsKI/AAAAAAAAB3A/cjNwHa_ecdkwRIyLBxg6Wns0JZDIMEPvgCK4BGAYYCw/s1600/mega.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-z1vm1LX6S5E/VjGyi0RHtOI/AAAAAAAAACA/KO1uCXdj1Ik/s1600/mega-logo.png</fanart>
+</item>      
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]BE MAD[/B][/COLOR]</title>
+<sportsdevil>http://latelete.tv/ver-be-mad-online-en-directo/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail>http://1.bp.blogspot.com/-xg_scTMoTZE/WdwqZtx86DI/AAAAAAAAB2Q/3rnUKELxilgNNs02oQpo7nsC9bDobJsgACK4BGAYYCw/s1600/beman.jpg</thumbnail>
+<fanart>http://omicrono.elespanol.com/wp-content/uploads/2016/03/be-mad-tv-tdt-canal-nuevo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Divinity[/B][/COLOR]</title>
+<sportsdevil>http://latelete.tv/divinity-en-directo-gratis-por-internet/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail>http://3.bp.blogspot.com/-mhkuMrrZB8s/WdwqZwT5mpI/AAAAAAAAB2Y/uVWm2Xa6plAa2LTwfitKfV0TSfVm9o4aACK4BGAYYCw/s1600/divitrio.jpg</thumbnail>
+<fanart>http://static01.diariodenavarra.es/uploads/imagenes/bajacalidad/2013/05/17/_divinity_6861b2ab.jpg?780d153cbc708c3bd42ec599e76b15f4</fanart>
+</item>
+ 
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Neox[/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-QiQgBHPbBvk/WdwqZVrhtQI/AAAAAAAAB2A/Ocv_Xw2bChEjQinbjj8HFHQfPiJSUa5NwCK4BGAYYCw/s1600/neox.jpg</thumbnail>
+<fanart>http://www.brandemia.org/wp-content/uploads/2011/07/neox_principal_logo.jpg</fanart>
+</item>
+
+
+------------------
+--------------------------------------
+
+
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]COSMOS[/B][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/cosmo.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://3.bp.blogspot.com/-607_izUGmQc/WdwqaSyPsnI/AAAAAAAAB2w/gKHFRfEhVMESGpnvL1V_LHEgvZsR_OFsQCK4BGAYYCw/s1600/cosmo.jpg</thumbnail>
+<fanart>https://www.cosmopolitantv.es/img/logorrss.png</fanart>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Odisea[/B][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/odisea-spain-p1157646</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail>http://1.bp.blogspot.com/-TFrNc9hWil8/WdwqaxdLskI/AAAAAAAAB3I/XitmogVkPlkHBHIlfaaY7HFdo44hf_DvACK4BGAYYCw/s1600/odisea.jpg</thumbnail>
+<fanart>http://www.mundoplus.tv/img/d6ae6723a4c822d97778856d24d4ae39</fanart>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR black]JHG •   [/COLOR][B]Comedy Central [/B][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)[",\']</expres>
+<page>http://tumarcador.xyz/verdirectotv/8</page>
+<referer>http://verdirectotv.com/tv/digitales2/plustoros.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&amp;Referer=http://www.dinozap.info/redirect/embedredi.php</agent>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-2XWy2iU53iw/WdwqZlqHQGI/AAAAAAAAB2I/i2xjPs8Oiv0OUrZkKApq3NzPz0K3N8kFgCK4BGAYYCw/s1600/cine%2Bcentral.jpg</thumbnail>   
+<fanart>https://davidmarin99.files.wordpress.com/2015/11/comedy_central_brand.jpg?w=676</fanart>
+</item>
+
+
+<item><title>.</title>
+
+
+
+<item><title>.</title>
+
+
+<item>
+<title>[COLOR darkcyan]- [B]TV-M3U8[/B] : ACESearch: плейлист с прямыми ссылками HLS без acestream -[/COLOR]</title>
+			<thumbnail>http://super-pomoyka.us.to/trash/ttv-list/res/trashbin.png</thumbnail>
+			<fanart>http://innatia.info/images/galeria/naranja-1.jpg</fanart>
+			<action>getfile_http</action>
+			<link>https://</link>
+			<externallink>http://pomoyka.lib.emergate.net/trash/ttv-list/as.direct.m3u</externallink>
+			<agent>Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</agent>
+	</item>	
+
+
+
+
+
+
+
+</items>
+
+
+
+
 

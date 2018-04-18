@@ -287,24 +287,3 @@ http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/strea
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR white][COLOR yellow] DMAX[/COLOR]</title>
- <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=dmax&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>[COLOR white][COLOR yellow] DW ESPAÑA[/COLOR]</title>
-<link>http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://www.afaqs.com/all/news/images/news_story_grfx/2015/09/45674/DWTV.jpg</thumbnail>
-<fanart></fanart>
-</item>
